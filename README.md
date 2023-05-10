@@ -44,9 +44,9 @@ LICENSE_INFO = Apache License 2.0
 DOC = True
 # URL della documentazione
 DOC_URL = https://example.com/docs
-# Abilita la rigenerazione della documentazione
+# Abilita la REDOC della documentazione
 REDOC = True
-# URL della rigenerazione della documentazione
+# URL della REDOC della documentazione
 REDOC_URL = https://example.com/redoc
 
 [DEFAULT.DATASOURCE]
